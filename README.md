@@ -1,2 +1,2 @@
 # E-Wallet
- This is an electronic e-wallet 
+ This is an electronic e-wallet.
